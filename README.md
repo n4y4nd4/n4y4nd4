@@ -30,16 +30,6 @@ Sou estudante de Engenharia de Software, atualmente em busca de oportunidades de
 
 ---
 
-## 🌍 **Idiomas**
-
-<div align="left">
-  
-  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Full%20Professional-007396?style=for-the-badge&logo=language&logoColor=white" />
-
-</div>
-
----
-
 ## 🎓 **Formação Acadêmica**
 
 🎓 **Instituto Infnet**  
@@ -50,4 +40,13 @@ Sou estudante de Engenharia de Software, atualmente em busca de oportunidades de
 *Curso Técnico Integrado em Informática*  
 *fevereiro de 2018 - fevereiro de 2022*
 
+---
+
+## 🌍 **Idiomas**
+
+<div align="left">
+  
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Full%20Professional-007396?style=for-the-badge&logo=language&logoColor=white" />
+
+</div>
 ---
