@@ -11,13 +11,15 @@
 
 ## 🎯 **Resumo**
 
-Estudante de Engenharia de Software, em busca de oportunidades de estágio na área de desenvolvimento.
+💻 Estudante de Engenharia de Software | Em busca de oportunidades de estágio em desenvolvimento
 
-Durante a faculdade, adquiri conhecimento sólido nas principais linguagens e tecnologias de programação, como **HTML5, CSS3, JavaScript, Java, C#, Banco de Dados e Python**. Recentemente, concluí o aprendizado de **React**, focando no desenvolvimento de interfaces dinâmicas e responsivas.
+Atualmente, curso **Engenharia de Software** no Instituto Infnet e estou estudando **Inteligência Artificial e Machine Learning**, aprendendo sobre algoritmos inteligentes e análise de dados.
 
-Além disso, tenho experiência prévia adquirida no meu curso técnico em Informática no CEFET/RJ, Campus Nova Iguaçu, onde estudei **PHP e C++**.
+Tenho experiência com **HTML5, CSS3, JavaScript, Java, C#, Banco de Dados e Python**. Recentemente, me aprofundei em **React**, focando no desenvolvimento de interfaces dinâmicas e responsivas.
 
-Atualmente, estou cursando disciplinas de **Inteligência Artificial e Machine Learning**, expandindo meu conhecimento e habilidades na área de dados e algoritmos inteligentes.
+Além disso, durante o curso técnico em Informática no CEFET/RJ, tive contato com **PHP e C++**, o que ampliou minha base em diferentes linguagens e paradigmas de programação.
+
+Gosto de aprender novas tecnologias e sempre busco evoluir para criar soluções eficientes e inovadoras. 🚀
 
 ---
 
