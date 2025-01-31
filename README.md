@@ -11,7 +11,13 @@
 
 ## 🎯 **Resumo**
 
-Sou estudante de Engenharia de Software, atualmente em busca de oportunidades de estágio na área de desenvolvimento. Na faculdade, estudei **HTML5, CSS3, JavaScript, Java, C#, Banco de Dados, e Python**, e atualmente estou aprendendo **React**. Além disso, adquiri conhecimentos em **PHP e C++** durante meu curso técnico em Informática no CEFET/RJ, Campus Nova Iguaçu.
+Estudante de Engenharia de Software, em busca de oportunidades de estágio na área de desenvolvimento.
+
+Durante a faculdade, adquiri conhecimento sólido nas principais linguagens e tecnologias de programação, como **HTML5, CSS3, JavaScript, Java, C#, Banco de Dados e Python**. Recentemente, concluí o aprendizado de **React**, focando no desenvolvimento de interfaces dinâmicas e responsivas.
+
+Além disso, tenho experiência prévia adquirida no meu curso técnico em Informática no CEFET/RJ, Campus Nova Iguaçu, onde estudei **PHP e C++**.
+
+Atualmente, estou cursando disciplinas de **Inteligência Artificial e Machine Learning**, expandindo meu conhecimento e habilidades na área de dados e algoritmos inteligentes.
 
 ---
 
