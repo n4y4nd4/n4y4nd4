@@ -25,7 +25,7 @@ Atualmente, estou cursando disciplinas de **Inteligência Artificial e Machine L
 
 🎓 **Instituto Infnet**  
 *Bacharelado em Engenharia de Software*  
-*fevereiro de 2023 - dezembro de 2027*
+*fevereiro de 2023 - dezembro de 2026*
 
 🎓 **CEFET/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca**  
 *Curso Técnico Integrado em Informática*  
